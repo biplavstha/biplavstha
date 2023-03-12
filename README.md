@@ -2,7 +2,7 @@
 
 
 # Toolbox #
-![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)![Amazon EC2](https://img.shields.io/badge/-Amazon%20EC2-white?&style=for-the-badge&logo=Amazon%20EC2&logoColor=FF9900)
 <!--
 **biplavstha/biplavstha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
