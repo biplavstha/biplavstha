@@ -9,7 +9,7 @@
 
 I build and optimize **CI/CD systems as internal products** — focusing on speed, reliability, and developer experience.
 
-Over the past 6+ years, I’ve:
+Over the past 7+ years, I’ve:
 - Replaced manual, multi-team deployment workflows with fully automated pipelines  
 - Reduced release friction from hours to a single trigger  
 - Improved build reliability by tackling flaky tests and environment inconsistencies  
