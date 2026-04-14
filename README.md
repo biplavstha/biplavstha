@@ -37,15 +37,15 @@ I enjoy working on problems where **engineering velocity and system reliability 
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biplavshrestha&show_icons=true&theme=dark&icon_color=FF8C00&title_color=FF8C00&text_color=ffffff&bg_color=0d1117&border_color=30363d&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biplavstha&show_icons=true&theme=dark&icon_color=FF8C00&title_color=FF8C00&text_color=ffffff&bg_color=0d1117&border_color=30363d&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=biplavshrestha&theme=dark&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=888888&stroke=30363d&background=0d1117&border=30363d" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=biplavstha&theme=dark&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=888888&stroke=30363d&background=0d1117&border=30363d" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplavshrestha&layout=compact&theme=dark&title_color=FF8C00&text_color=ffffff&bg_color=0d1117&border_color=30363d&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplavstha&layout=compact&theme=dark&title_color=FF8C00&text_color=ffffff&bg_color=0d1117&border_color=30363d&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
