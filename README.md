@@ -1,37 +1,25 @@
 # 👋 Hi, I'm Biplav Shrestha
-
 🚀 DevOps Engineer | CI/CD Systems | Developer Productivity  
 📍 Nepal 
-
 ---
-
 ## 🧠 About Me
-
 I build and optimize **CI/CD systems as internal products** — focusing on speed, reliability, and developer experience.
-
-Over the past 7+ years, I’ve:
+Over the past 7+ years, I've:
 - Replaced manual, multi-team deployment workflows with fully automated pipelines  
 - Reduced release friction from hours to a single trigger  
 - Improved build reliability by tackling flaky tests and environment inconsistencies  
 - Designed scalable infrastructure on AWS  
-
 I enjoy working on problems where **engineering velocity and system reliability intersect**.
-
 ---
-
 ## ⚙️ What I Work On
-
 - 🔁 CI/CD pipeline architecture & optimization  
 - ⚡ Build performance (caching, parallelism, test strategies)  
 - ☁️ Cloud infrastructure (AWS)  
 - 🐳 Containerized environments (Docker)  
 - 📦 Infrastructure as Code (Terraform, Ansible)  
 - 🧰 Developer Experience (DevEx) improvements  
-
 ---
-
 ## 🧰 Toolbox
-
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?&style=for-the-badge&logo=github-actions&logoColor=white)
@@ -40,21 +28,28 @@ I enjoy working on problems where **engineering velocity and system reliability 
 ![Python](https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
-
 ## 📈 What I Care About
-
 - Making CI **fast enough to stay out of the way**
 - Making CI **reliable enough to be trusted**
 - Reducing cognitive load for developers
 - Building systems that scale without becoming bottlenecks
+---
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biplavstha&show_icons=true&theme=dark&icon_color=FF8C00&title_color=FF8C00&text_color=ffffff&bg_color=0d1117&border_color=30363d&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=biplavstha&theme=dark&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00&sideLabels=FF8C00&dates=888888&stroke=30363d&background=0d1117&border=30363d" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biplavstha&layout=compact&theme=dark&title_color=FF8C00&text_color=ffffff&bg_color=0d1117&border_color=30363d&langs_count=6" alt="Top Languages" />
+</p>
 
 ---
-
 ## 🧑‍🏫 Teaching & Mentorship
-
 - 🎓 Cloud Computing Lecturer  
 - 🛠 DevOps Trainer (CI/CD, Cloud, Automation)
-
 I enjoy breaking down complex systems into practical concepts.
